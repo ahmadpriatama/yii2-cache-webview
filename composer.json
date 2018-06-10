@@ -1,0 +1,12 @@
+{
+    "name": "ahmadpriatama/yii2-cache-webview",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Priatama",
+            "email": "ahmad.priatama@gmail.com"
+        }
+    ],
+    "require": {}
+}
