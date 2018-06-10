@@ -1,5 +1,5 @@
 {
-    "name": "ahmadpriatama/yii2-cache-webview",
+    "name": "ahmadpriatama/yii2-webview-cache",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -8,5 +8,10 @@
             "email": "ahmad.priatama@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "yii\\webview\\cache": "src/"
+        }
+    }
 }
